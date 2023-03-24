@@ -1,7 +1,8 @@
 # columnStyles
 styles for the columns
 
-foreach (DataGridViewColumn column in dataGridView1.Columns)
+
+            foreach (DataGridViewColumn column in dataGridView1.Columns)
 
             {
             
